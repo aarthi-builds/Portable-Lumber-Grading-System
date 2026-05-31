@@ -1,0 +1,16 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+nc: 8
+
+names:
+  0: Crack
+  1: Dead Knot
+  2: Knot Missing
+  3: Knot with Crack
+  4: Live Knot
+  5: Marrow
+  6: Quartzity
+  7: Resin
